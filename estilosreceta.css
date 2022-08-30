@@ -1,3 +1,7 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
 h1, h2, h3 {
     color: darkgoldenrod;
 }
@@ -6,9 +10,14 @@ h1, h2, h3 {
     color: darkviolet;
 }
 .textoResaltado {
-    color: blue;
     font-size: 18px;
 }
 .colorInst {
     color: darkgoldenrod;
+}
+a {
+    color: goldenrod;
+}
+.anchoImg {
+    width: 50%;
 }
