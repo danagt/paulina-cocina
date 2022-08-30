@@ -1,0 +1,14 @@
+h1, h2, h3 {
+    color: darkgoldenrod;
+}
+
+#h3Especial {
+    color: darkviolet;
+}
+.textoResaltado {
+    color: blue;
+    font-size: 18px;
+}
+.colorInst {
+    color: darkgoldenrod;
+}
